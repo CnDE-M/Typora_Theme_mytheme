@@ -1,4 +1,4 @@
-# Typora_my_theme
+# Typora_Theme_mytheme
 
 > This is a typora theme modified from the default theme [github](http://theme.typora.io/theme/Github/).
 
