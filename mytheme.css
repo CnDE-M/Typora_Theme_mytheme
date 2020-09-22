@@ -174,8 +174,12 @@ h4 {
     line-height: 1.6 rem;
     padding: 25 px;
     font-weight: bold;
-    color: #029
+    color: #fff;
+    padding-bottom: 3px;
+    background-image:linear-gradient(to right,#555555 1px,transparent 130%);
+    background-position: 0 100%;
 }
+
 h5 {
     font-family: "Times New Roman","HeiTi";
     font-size: 18 px;
